@@ -25,4 +25,11 @@ https://github.com/rahichesoft
 
 ## upLab
 https://www.uplabs.com/templates/android
+
 https://github.com/823546371
+
+## fidev.io
+
+https://fidev.io/
+
+https://github.com/MarcinusX/buy_ticket_design
